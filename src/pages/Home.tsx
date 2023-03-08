@@ -1,7 +1,7 @@
 const Home = () => {
   return (
     <>
-      <h3>Card list of characters</h3>
+      <h3>A Sample Front Template</h3>
     </>
   );
 };
